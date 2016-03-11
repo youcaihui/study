@@ -4,5 +4,5 @@ haha back
 Git tracks changes of files.
 Creating a new branch is quick.
 haha
-no fast forward
+-->new no fast forward
 
