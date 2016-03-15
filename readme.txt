@@ -6,3 +6,4 @@ Creating a new branch is quick.
 haha
 -->new no fast forward
 ---->test multi remote edit
+------>local commit
